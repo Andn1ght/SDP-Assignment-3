@@ -6,9 +6,7 @@ This project is a Java example illustrating the Adapter design pattern in the co
 
 - [Project Structure](#project-structure)
 - [Adapter Pattern](#adapter-pattern)
-- [SOLID, KISS, and DRY Implementation](#solid-kiss-and-dry-implementation)
-- [How the Project Works](#how-the-project-works)
-- [Use Cases](#use-cases)
+- [SOLID Principles Implementation](#solid-principles-implementation)
 
 ## Project Structure
 
